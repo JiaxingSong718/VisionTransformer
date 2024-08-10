@@ -13,7 +13,7 @@ VisionTransformer on CIFAR10 dataset
 + Class Embedding直接拼到patch embedding序列头部用于最终的分类，Class Embedding可学习
 + Position Embedding可学习（与Transformer不同）
 
-<img src="C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20240810185038657.png" alt="image-20240810185038657" style="zoom:55%;" />
+![VisionTransformer Model](./visiontransformer.png)
 
 ## Install
 

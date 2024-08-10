@@ -44,5 +44,5 @@ python inference.py
 
 ## Reference
 
-[VisionTransformer]([2010.11929 (arxiv.org)](https://arxiv.org/pdf/2010.11929))
+[VisionTransformer Paper](https://arxiv.org/pdf/2010.11929)
 

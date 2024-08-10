@@ -1,0 +1,6 @@
+/checkpoints/*.pth
+!/checkpoints/
+
+/dataset/data/*
+
+

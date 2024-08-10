@@ -13,7 +13,8 @@ VisionTransformer on CIFAR10 dataset
 + Class Embedding直接拼到patch embedding序列头部用于最终的分类，Class Embedding可学习
 + Position Embedding可学习（与Transformer不同）
 
-![VisionTransformer Model](./visiontransformer.png)
+<img src="./visiontransformer.png" alt="VisionTransformer Model" style="width:50%;"/>
+
 
 ## Install
 

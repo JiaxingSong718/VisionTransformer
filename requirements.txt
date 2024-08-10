@@ -1,0 +1,8 @@
+matplotlib==3.5.1
+Pillow==9.5.0
+Pillow==10.4.0
+PyYAML==6.0.1
+PyYAML==6.0.2
+torch==1.13.1+cu117
+torchvision==0.14.1+cu117
+tqdm==4.66.1
